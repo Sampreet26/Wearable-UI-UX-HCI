@@ -1,0 +1,5 @@
+<resources>
+    <color name="ring_ok">#4CAF50</color>
+    <color name="ring_mid">#FFC107</color>
+    <color name="ring_low">#F44336</color>
+</resources>
